@@ -9,7 +9,7 @@
     "C:\\Program Files\\Unity\\Hub\\Editor\\6000.3.7f1\\Editor\\Data\\Resources\\PackageManager\\BuiltInPackages\\BuiltInPackagesCombined.sha1"
   ],
   "outputs": {
-    "com.de-panther.webxr@https://github.com/De-Panther/unity-webxr-export.git?path=/Packages/webxr": {
+    "com.de-panther.webxr@https://github.com/De-Panther/unity-webxr-export.git?path=Packages/webxr": {
       "name": "com.de-panther.webxr",
       "displayName": "WebXR Export",
       "resolvedPath": "C:\\GitHub\\WebXR-Unity-Demo\\WebXR Unity Demo\\Library\\PackageCache\\com.de-panther.webxr@16b774554dd7",
@@ -17,6 +17,26 @@
       "editorCompatibility": "2020.3.11f1",
       "version": "0.22.2-preview",
       "source": "git",
+      "testable": false
+    },
+    "com.de-panther.webxr-interactions@https://github.com/De-Panther/unity-webxr-export.git?path=Packages/webxr-interactions": {
+      "name": "com.de-panther.webxr-interactions",
+      "displayName": "WebXR Interactions",
+      "resolvedPath": "C:\\GitHub\\WebXR-Unity-Demo\\WebXR Unity Demo\\Library\\PackageCache\\com.de-panther.webxr-interactions@29794a8762b2",
+      "fingerprint": "29794a8762b24d5071596e0a150a6970758c423b",
+      "editorCompatibility": "2020.3.11f1",
+      "version": "0.22.1-preview",
+      "source": "git",
+      "testable": false
+    },
+    "com.unity.xr.arfoundation@6.3.3": {
+      "name": "com.unity.xr.arfoundation",
+      "displayName": "AR Foundation",
+      "resolvedPath": "C:\\GitHub\\WebXR-Unity-Demo\\WebXR Unity Demo\\Library\\PackageCache\\com.unity.xr.arfoundation@7ee87c4f5245",
+      "fingerprint": "7ee87c4f524504cf97c5d140f592e7cf5c630406",
+      "editorCompatibility": "6000.0.0a1",
+      "version": "6.3.3",
+      "source": "registry",
       "testable": false
     },
     "com.unity.xr.interaction.toolkit@3.3.1": {
@@ -364,6 +384,16 @@
       "fingerprint": "574ebfb1e9766bb5f6bdb255c6abfb195b43f4cb",
       "editorCompatibility": "2022.3.0a1",
       "version": "4.5.3",
+      "source": "registry",
+      "testable": false
+    },
+    "com.unity.editorcoroutines@1.0.1": {
+      "name": "com.unity.editorcoroutines",
+      "displayName": "Editor Coroutines",
+      "resolvedPath": "C:\\GitHub\\WebXR-Unity-Demo\\WebXR Unity Demo\\Library\\PackageCache\\com.unity.editorcoroutines@54394ed3283c",
+      "fingerprint": "54394ed3283c1d492d6a80602b05b04bd0863f8b",
+      "editorCompatibility": "2018.1.0a1",
+      "version": "1.0.1",
       "source": "registry",
       "testable": false
     },

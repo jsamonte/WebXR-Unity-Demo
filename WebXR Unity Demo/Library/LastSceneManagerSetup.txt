@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Samples/XR Interaction Toolkit/3.3.1/AR Starter Assets/ARDemoScene.unity
+- path: Assets/New Scene.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0

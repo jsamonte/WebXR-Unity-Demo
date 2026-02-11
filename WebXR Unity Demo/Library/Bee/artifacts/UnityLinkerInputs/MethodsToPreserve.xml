@@ -1,0 +1,72 @@
+<linker>
+	<assembly fullname="Unity.XR.Interaction.Toolkit.Samples.ARStarterAssets" ignoreIfMissing="1">
+		<type fullname="UnityEngine.XR.Interaction.Toolkit.Samples.ARStarterAssets.ARSampleMenuManager">
+			<method name="SetObjectToSpawn"/>
+			<method name="SetObjectToSpawn"/>
+			<method name="SetObjectToSpawn"/>
+			<method name="SetObjectToSpawn"/>
+			<method name="SetObjectToSpawn"/>
+			<method name="SetObjectToSpawn"/>
+			<method name="SetObjectToSpawn"/>
+		</type>
+	</assembly>
+	<assembly fullname="Unity.XR.Interaction.Toolkit.Samples.StarterAssets" ignoreIfMissing="1">
+		<type fullname="UnityEngine.XR.Interaction.Toolkit.Samples.StarterAssets.ObjectSpawner">
+			<method name="SetSpawnObjectIndex"/>
+			<method name="SpawnObject"/>
+		</type>
+	</assembly>
+	<assembly fullname="UnityEngine.CoreModule" ignoreIfMissing="1">
+		<type fullname="UnityEngine.GameObject">
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+		</type>
+	</assembly>
+</linker>
